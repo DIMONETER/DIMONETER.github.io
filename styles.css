@@ -59,7 +59,7 @@
 }
 
 .header {
-  background: url(../images/header_background.png);
+  background: url(header_background.png);
   background-repeat: no-repeat;
   background-position: right;
   display: -webkit-flex;
