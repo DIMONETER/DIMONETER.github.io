@@ -14,10 +14,8 @@
   max-width: 35px;
 }
 .name{
-  max-width: 600px;
-  width: auto;
-  height: auto;
-  padding: auto;
+  max-width:100%;
+  height:auto;
 }
 
 .navbar-brand {
