@@ -7,6 +7,9 @@
 .logo-image {
   max-width: 35px;
 }
+.name{
+  max-width: 600px;
+}
 
 .navbar-brand {
   display: -webkit-flex;
