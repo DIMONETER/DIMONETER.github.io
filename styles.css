@@ -3,11 +3,11 @@
     max-width: 1450px !important;
   }
 }
-@media (min-width: 300px) {
+@media (min-width: 1200px) {
  .container2 {
   margin-right: 0;
   margin-left: 0;
-  max-width: 500px !important;
+  max-width: 1450px !important;
 }
 }
 
