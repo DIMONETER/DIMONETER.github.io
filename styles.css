@@ -3,6 +3,12 @@
     max-width: 1450px !important;
   }
 }
+ .container2 {
+  margin-right: 0;
+  margin-left: 0;
+  max-width: 1450px !important;
+  padding: auto;
+}
 
 .logo-image {
   max-width: 35px;
@@ -66,7 +72,7 @@
 .header {
   background: url(header_background.png);
   background-repeat: no-repeat;
-  background-position: right;
+  background-position: center;
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
